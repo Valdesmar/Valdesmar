@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Im a student of Information Systems and am currently working with IT operations 👋
 
 <!--
 **Valdesmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,10 +26,6 @@ Here are some ideas to get you started:
 
 <img src="https://skillicons.dev/icons?i=html,css,js&perline=4" height="30rem">
 
-
-
-
-<img src="https://skillicons.dev/icons?i=rust,angular&perline=4" height="30rem">
 
 
 
