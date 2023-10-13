@@ -18,17 +18,14 @@ Here are some ideas to get you started:
 
 
 ## My Skills:
-<img src="https://skillicons.dev/icons?i=c,cs,py,java,dart&perline=4" height="60rem">
+<img src="https://skillicons.dev/icons?i=c,cs,py,java&perline=4" height="60rem">
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,prisma,maven,gradle&perline=4" height="60rem">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,maven,gradle&perline=4" height="60rem">
 
-<img src="https://skillicons.dev/icons?i=linux,git,replit&perline=4" height="30rem">
+<img src="https://skillicons.dev/icons?i=linux,git&perline=4" height="30rem">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=4" height="30rem">
+<img src="https://skillicons.dev/icons?i=html,css,js&perline=4" height="30rem">
 
-<img src="https://skillicons.dev/icons?i=flutter&perline=4" height="30rem">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,pug&perline=4" height="30rem">
 
 
 
@@ -38,14 +35,14 @@ Here are some ideas to get you started:
 
 ## Statistics:
 <div style="display: flex; flex-direction: row;"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorSS4321&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valdesmar&layout=compact&langs_count=7&theme=nightowl"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YgorSS4321&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Valdesmar&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
 
   
 </div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YgorSS4321&theme=darkhub&margin-w=9&hide_border=true">
+<img src="https://github-profile-trophy.vercel.app/?username=Valdesmar&theme=darkhub&margin-w=9&hide_border=true">
 
 
 
