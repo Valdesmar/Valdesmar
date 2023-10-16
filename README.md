@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 
 ## My Skills:
-<img src="https://skillicons.dev/icons?i=c,cs,py,java&perline=4" height="60rem">
+<img src="https://skillicons.dev/icons?i=c,cs,py,java&perline=4" height="30rem">
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,maven,gradle&perline=4" height="60rem">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,maven,gradle&perline=4" height="30rem">
 
 <img src="https://skillicons.dev/icons?i=linux,git&perline=4" height="30rem">
 
